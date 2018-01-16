@@ -1,0 +1,39 @@
+h1 {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+p {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+.background {
+  background-color: black;
+
+}
+#your {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 32px;
+  color: white;
+}
+h3 {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+#img{
+  text-align: center;
+}
+h2{
+  text-align: right;
+  color: gray;
+}
+body {
+ background-color: black;
+ text-align: center;
+ }
